@@ -1,25 +1,11 @@
 [
   {
     "Suspeitos": 12,
-    "Confirmados": 8,
-    "Descartados": 16,
-    "Monitoramento": 0,
-    "Curados": 0,
-    "Sdomiciliar": 12,
-    "Shopitalar": 0,
-    "Chospitalar": 0,
     "mortes": 0,
     "boletim": "2020-03-29T03:00:00.000Z"
   },
   {
     "Suspeitos": 8,
-    "Confirmados": 8,
-    "Descartados": 20,
-    "Monitoramento": 0,
-    "Curados": 0,
-    "Sdomiciliar": 8,
-    "Shopitalar": 0,
-    "Chospitalar": 0,
     "mortes": 0,
     "boletim": "2020-03-30T03:00:00.000Z"
   },
@@ -27,38 +13,17 @@
 
   {
     "Suspeitos": 10,
-    "Confirmados": 9,
-    "Descartados": 32,
-    "Monitoramento": 42,
-    "Curados": 7,
-    "Sdomiciliar": 6,
-    "Shopitalar": 4,
-    "Chospitalar": 0,
     "mortes": 0,
     "boletim": "2020-04-06T14:25:00.000Z"
   },
   {
     "Suspeitos": 9,
-    "Confirmados": 10,
-    "Descartados": 32,
-    "Monitoramento": 42,
-    "Curados": 7,
-    "Sdomiciliar": 6,
-    "Shopitalar": 3,
-    "Chospitalar": 1,
     "mortes": 0,
     "boletim": "2020-04-06T20:00:00.000Z"
   },
  
     {
       "Suspeitos": 10,
-      "Confirmados": 10,
-      "Descartados": 34,
-      "Monitoramento": 43,
-      "Curados": 7,
-      "Sdomiciliar": 6,
-      "Shopitalar": 4,
-      "Chospitalar": 1,
       "mortes": 2,
       "boletim": "2020-04-08T16:45:00.000Z"
     }
