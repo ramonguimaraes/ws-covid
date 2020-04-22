@@ -9,8 +9,6 @@
     "mortes": 0,
     "boletim": "2020-03-30T03:00:00.000Z"
   },
- 
-
   {
     "Suspeitos": 10,
     "mortes": 0,
@@ -21,8 +19,7 @@
     "mortes": 0,
     "boletim": "2020-04-06T20:00:00.000Z"
   },
- 
-    {
+  {
       "Suspeitos": 10,
       "mortes": 2,
       "boletim": "2020-04-08T16:45:00.000Z"
