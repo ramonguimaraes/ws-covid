@@ -120,6 +120,42 @@
       "boletim": "2020-04-08T16:45:00.000Z"
     },
   {
+      "Suspeitos": 01,
+      "Confirmados": 14,
+      "Descartados": 54,
+      "Monitoramento": 32,
+      "Curados": 14,
+      "Sdomiciliar": 7,
+      "Shopitalar": 3,
+      "Chospitalar": 0,
+      "mortes": 0,
+      "boletim": "2020-04-18T16:45:00.000Z"
+    },
+     {
+      "Suspeitos": 01,
+      "Confirmados": 14,
+      "Descartados": 54,
+      "Monitoramento": 32,
+      "Curados": 14,
+      "Sdomiciliar": 7,
+      "Shopitalar": 3,
+      "Chospitalar": 0,
+      "mortes": 0,
+      "boletim": "2020-04-18T16:45:00.000Z"
+    },
+   {
+      "Suspeitos": 04,
+      "Confirmados": 14,
+      "Descartados": 54,
+      "Monitoramento": 35,
+      "Curados": 14,
+      "Sdomiciliar": 7,
+      "Shopitalar": 3,
+      "Chospitalar": 0,
+      "mortes": 0,
+      "boletim": "2020-04-19T16:45:00.000Z"
+    },
+  {
       "Suspeitos": 10,
       "Confirmados": 14,
       "Descartados": 72,
@@ -129,7 +165,7 @@
       "Shopitalar": 3,
       "Chospitalar": 0,
       "mortes": 0,
-      "boletim": "2020-04-21T16:45:00.000Z"
+      "boletim": "2020-04-20T16:45:00.000Z"
     },
   
     {
