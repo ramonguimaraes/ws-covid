@@ -120,7 +120,7 @@
       "boletim": "2020-04-08T16:45:00.000Z"
     },
   {
-      "Suspeitos": 01,
+      "Suspeitos": 1,
       "Confirmados": 14,
       "Descartados": 54,
       "Monitoramento": 32,
@@ -132,7 +132,7 @@
       "boletim": "2020-04-18T16:45:00.000Z"
     },
      {
-      "Suspeitos": 01,
+      "Suspeitos": 1,
       "Confirmados": 14,
       "Descartados": 54,
       "Monitoramento": 32,
@@ -144,7 +144,7 @@
       "boletim": "2020-04-18T16:45:00.000Z"
     },
    {
-      "Suspeitos": 04,
+      "Suspeitos": 4,
       "Confirmados": 14,
       "Descartados": 54,
       "Monitoramento": 35,
@@ -192,5 +192,66 @@
       "Chospitalar": 0,
       "mortes": 0,
       "boletim": "2020-04-22T16:45:00.000Z"
+    },
+  {
+      "Suspeitos": 14,
+      "Confirmados": 15,
+      "Descartados": 81,
+      "Monitoramento": 41,
+      "Curados": 15,
+      "Sdomiciliar": 14,
+      "Shopitalar": 0,
+      "Chospitalar": 0,
+      "mortes": 0,
+      "boletim": "2020-04-26T14:45:00.000Z"
+    },
+  {
+      "Suspeitos": 14,
+      "Confirmados": 16,
+      "Descartados": 94,
+      "Monitoramento": 37,
+      "Curados": 14,
+      "Sdomiciliar": 13,
+      "Shopitalar": 1,
+      "Chospitalar": 0,
+      "mortes": 0,
+      "boletim": "2020-04-25T14:45:00.000Z"
+    },
+  {
+      "Suspeitos": 16,
+      "Confirmados": 15,
+      "Descartados": 95,
+      "Monitoramento": 35,
+      "Curados": 15,
+      "Sdomiciliar": 15,
+      "Shopitalar": 1,
+      "Chospitalar": 0,
+      "mortes": 0,
+      "boletim": "2020-04-24T14:45:00.000Z"
+    },
+    {
+      "Suspeitos": 15,
+      "Confirmados": 17,
+      "Descartados": 98,
+      "Monitoramento": 35,
+      "Curados": 15,
+      "Sdomiciliar": 14,
+      "Shopitalar": 1,
+      "Chospitalar": 0,
+      "mortes": 0,
+      "boletim": "2020-04-26T14:45:00.000Z"
+    },
+  
+   {
+      "Suspeitos": 14,
+      "Confirmados": 19,
+      "Descartados": 103,
+      "Monitoramento": 29,
+      "Curados": 16,
+      "Sdomiciliar": 12,
+      "Shopitalar": 1,
+      "Chospitalar": 0,
+      "mortes": 0,
+      "boletim": "2020-04-27T14:45:00.000Z"
     }
 ]
