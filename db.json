@@ -253,5 +253,18 @@
       "Chospitalar": 0,
       "mortes": 0,
       "boletim": "2020-04-27T14:45:00.000Z"
-    }
+    },
+  {
+    "Suspeitos": 9999,
+    "Confirmados": 123123123,
+    "Descartados": 123123123,
+    "Monitoramento": 123123123,
+    "Curados": 123123123,
+    "Sdomiciliar": 12312312312,
+    "Shopitalar":3213123123,
+    "Chospitalar": 123123123,
+    "mortes":123123123122323,
+    "boletim": "2020-04-30T03:00:00.000Z"
+  },
+  
 ]
